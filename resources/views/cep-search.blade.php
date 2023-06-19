@@ -21,6 +21,7 @@
             <div class="flex flex-col gap-3">
                 <label for="uf">Informe a UF:</label>
                 <input type="text" id="uf" name="uf" placeholder="UF" class="h-10 rounded-md p-4 bg-neutral-500">
+                <p class="text-sm text-neutral-300">Informe apenas dois caracteres</p>
             </div>
             <div class="flex flex-wrap gap-6 justify-between w-full">
                 <a href="/" class="border border-neutral-200 bg-transparent text-neutral-200 transition-all py-4 px-8 rounded-md">Limpar</a>
